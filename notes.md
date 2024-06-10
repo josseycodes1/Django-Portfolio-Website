@@ -58,18 +58,6 @@ python manage.py migrate
 
 12b. Register Models in Admin Interface (optional but recommended for managing data)
 
-Here is an example
-from django.contrib import admin
-from .models import HomeSection, AboutSection, SkillCategory, Skill, PortfolioItem
-
-admin.site.register(HomeSection)
-admin.site.register(AboutSection)
-admin.site.register(SkillCategory)
-admin.site.register(Skill)
-admin.site.register(PortfolioItem)
-
-
-
 13- Create superuser
 `python manage.py createsuperuser`
 
