@@ -134,3 +134,8 @@ https://github.com/bedimcode/responsive-portfolio-website-JhonDoe
 
 ---------------------------------------------------------------------
 Check [DEPLOYMENT](Deploy.md)
+
+
+GIT RESET
+1. rm -rf .git*
+ 
